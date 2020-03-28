@@ -1,0 +1,11 @@
+All html starts with <something> and ends with </something> 
+
+<html> The htmldocument as a whole
+<head> The header containing metadata
+<title> the title of the page, displayed in the tab or history.
+<body> the content of the page itself
+<h1><h2> headlines levels??
+<p> single paragraph of text
+<ul> unordered list, bullet points or dashes
+<ol> ordered list, with numbers
+<li> single list item must have <ul> or <ol>
