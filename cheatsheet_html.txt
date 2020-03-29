@@ -1,7 +1,12 @@
-All html starts with <something> and ends with </something> 
-html foles dictate the basic makeup of the site
+All html starts with <something> and ends with </something> this is an element
+html files dictate the basic makeup of the site
 
-<html> The htmldocument as a whole
+An element is a way of indicating what the contents of the page should be. 
+The <> and </> tags indicate what the content between the tags should be.
+
+
+
+<html> The html document as a whole
 <head> The header containing metadata
 <title> the title of the page, displayed in the tab or history.
 <body> the content of the page itself
@@ -10,4 +15,5 @@ html foles dictate the basic makeup of the site
 <ul> unordered list, bullet points or dashes
 <ol> ordered list, with numbers
 <li> single list item must have <ul> or <ol>
-<a> is used for links "hyperlink">displayedname
+<a> is used for links "hyperlink">displayedname, link inside the anchor
+<img> is an empty element, no closing tag required
