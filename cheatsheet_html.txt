@@ -1,4 +1,5 @@
 All html starts with <something> and ends with </something> 
+html foles dictate the basic makeup of the site
 
 <html> The htmldocument as a whole
 <head> The header containing metadata
@@ -9,3 +10,4 @@ All html starts with <something> and ends with </something>
 <ul> unordered list, bullet points or dashes
 <ol> ordered list, with numbers
 <li> single list item must have <ul> or <ol>
+<a> is used for links "hyperlink">displayedname
