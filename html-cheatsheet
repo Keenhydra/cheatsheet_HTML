@@ -3,6 +3,11 @@ html files dictate the basic makeup of the site
 
 An element is a way of indicating what the contents of the page should be. 
 The <> and </> tags indicate what the content between the tags should be.
+Opening tags can have an additional attribute within them. This is how image tags work.
+An attribute has a name for what it is and a value to it.
+In addition you can use elements inside other elements, this is called Nesting elements.
+The whole element must be contained in the other element. (<p> <strong> </strong> </p>)
+
 
 
 
@@ -17,3 +22,4 @@ The <> and </> tags indicate what the content between the tags should be.
 <li> single list item must have <ul> or <ol>
 <a> is used for links "hyperlink">displayedname, link inside the anchor
 <img> is an empty element, no closing tag required
+

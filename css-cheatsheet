@@ -1,0 +1,13 @@
+A css file is in essense the way the web page looks. 
+html dictates where items are placed and what their function is while css dictates how they look.
+
+In css an element is called a rulesheet. 
+Consisting of a selector, the declaration, the property and the value of the property
+wrapped in { } 
+Within each declaration there must be a : to seperate the property from it's value
+The ; is used to seperate each declaration from the next
+
+The selector dictates what element on the html this ruleset should affect
+The declaration is a single rule in the set specifying which properties to style
+The properties allows you to tell the ruleset what attribute to affect, 
+The property value is the appearance of that attribute
